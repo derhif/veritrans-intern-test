@@ -1,0 +1,3 @@
+AcakKataDua.java adalah pengembangan lanjutan dari AcakKata.java dengan penambahan fitur skor dan item bantuan
+Kemungkinan masih terdapat banyak bug
+pastikan kataKata.txt berada di folder yang sama jika ingin menjalankannya.
