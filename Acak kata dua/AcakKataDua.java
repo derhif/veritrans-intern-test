@@ -6,6 +6,7 @@ import java.util.TreeMap;
 import java.util.Random;
 import java.util.Scanner;
 
+
 /**
  * Program yang akan menjalankan game Acak Kata
  * @author Muhammad Rif'at - Ilmu Komputer, Universitas Indonesia
