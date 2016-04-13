@@ -32,18 +32,6 @@ public class AcakKataDua {
 		System.exit(0);
 		
 	}
-	
-	/**
-	 * Method untuk menjalankan game
-	 * @param korpus adalah TreeMap berisi list kata
-	 */
-	
-	
-	/**
-	 * Method untuk mengacak suatu kata
-	 * @param kata adalah string yang ingin diacak
-	 * @return string hasil pengacakan kata
-	 */
 }
 
 class Game {
