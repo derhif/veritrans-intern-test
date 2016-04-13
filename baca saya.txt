@@ -1,0 +1,4 @@
+Program AcakKata.java memerlukan file kataKata.txt sebagai sumber korpus list kata yang akan dimunculkan di game.
+Pastikan file kataKata.txt berada di folder yang sama dengan AcakKata.java saat menjalankan AcakKata.java
+
+Terima Kasih
